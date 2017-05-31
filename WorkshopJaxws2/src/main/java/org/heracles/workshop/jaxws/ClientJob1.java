@@ -11,6 +11,7 @@ public class ClientJob1 {
 
     public static void main(String[] args) throws Exception
     {
+    	System.out.println("Debut taitement");
         URL url = new URL("http://localhost:9999/ws/hello?wsdl");
 
         //1st argument service URI, refer to wsdl document above
