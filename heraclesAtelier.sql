@@ -1,3 +1,4 @@
+--Test commit
 create database heracles_atelier character set UTF8; 
 use heracles_atelier; 
 -- On
